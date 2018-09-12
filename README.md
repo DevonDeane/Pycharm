@@ -1,2 +1,2 @@
 # Pycharm
-Python extra-corricular work.
+Python extra-curricular work done in PyCharm.
